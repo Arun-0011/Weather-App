@@ -1,12 +1,12 @@
 **Weather-App**
 
-- Android studio last version 
+- Android studio latest version 
 
 - Supports API Level +21
 
 - Use [OpenWeatherMap](https://openweathermap.org/) API
 
-- Language- English
+- Language- Kotlin
 
 - Support Libraries appcompat / recyclerview / constraintlayout
 
